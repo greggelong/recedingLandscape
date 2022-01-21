@@ -9,7 +9,7 @@ function setup(){
   background(0);
   stroke(0,255,0);
   sp= width/lns;
-  
+  // small change
   sbtm = 10;
   h=0;
   
