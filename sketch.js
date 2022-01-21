@@ -16,7 +16,6 @@ function setup(){
 }
 
 function draw(){
-  
   background(0);
   h= map(mouseY,0,height,0,height-height/4);
   sbtm = map(mouseX,0,width,10,60);
